@@ -1,0 +1,12 @@
+name: case3sales
+title: case3sales
+username:
+account: ygao10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2614080
+bundleId: 3437805
+url: https://ygao10.shinyapps.io/case3sales/
+when: 1595780995.89028
+asMultiple: FALSE
+asStatic: FALSE
